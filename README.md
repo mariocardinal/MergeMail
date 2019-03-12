@@ -1,2 +1,2 @@
 # mergemail
-A .Net Core console app to merge CVS mailing list
+A .Net Core console app to merge CSV mailing list
